@@ -2,7 +2,7 @@
 
 ![JULTAGI](images/jultagi3.png)
 
-[Demo](https://youtu.be/yBSrb2m3r5o)
+[Demo on YOUTUBE](https://youtu.be/yBSrb2m3r5o)
 
 ## About JULTAGI
 
